@@ -10,6 +10,9 @@ It was one of my first "serious" Python projects; reading it years later, I can 
 ## Why multithreading instead of multiprocessing?
 Because my teacher asked me to use threads for this project. Maybe I'll start writing a multiprocessing version, one day. Maybe.
 
+## Requirements
+Python3. Nothing more.
+
 ## How to use it?
 First, we must write our settings. Open the `config.ini` file and modify the parameters accordingly to your needs.
 My default settings were this:
